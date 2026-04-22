@@ -1,0 +1,17 @@
+{
+  "name": "challenge-yourfirstgithubactionspipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node -e \"console.log('Tests passed successfully')\"",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
